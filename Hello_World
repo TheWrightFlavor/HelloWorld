@@ -1,8 +1,0 @@
-class speak{
-  public speak(){
-    System.out.println("Hello everyone! I'm gravely confused, but I am not dead! I consider this a success!");
-  }
-  public static void main(String[] args){
-  speak now = new speak();
-  }
-}
