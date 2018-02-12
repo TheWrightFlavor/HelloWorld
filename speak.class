@@ -1,6 +1,6 @@
 class speak{
   public speak(){
-    System.out.println("Hello everyone! I'm gravely confused, but I am not dead! I consider this a success!");
+    System.out.println("Hello everyone! Hello World!");
   }
   public static void main(String[] args){
   speak now = new speak();
